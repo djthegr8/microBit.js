@@ -57,7 +57,7 @@ function preload() {
   var url = 'https://api.apixu.com/v1/current.json?key=513d8003c8b348f1a2461629162106&q=SHA';
   loadJSON(url, gotWeather);
   sweat = loadAnimation("assets/sweat-01.png", "assets/sweat-04.png");
-  still = loadAnimation("assets/lars.png");
+  still = loadAnimation("assets/vkb.webp");
 }
 
 function setup() {

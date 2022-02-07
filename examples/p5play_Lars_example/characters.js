@@ -3,7 +3,7 @@ function createLars(x,y){
   lars.mass = 10;
   lars.scale=1;
   lars.addAnimation("sweat","assets/sweat-01.png", "assets/sweat-04.png" );
-  lars.addAnimation("still","assets/lars.png");
+  lars.addAnimation("still","assets/vkb.webp");
   lars.setCollider("circle", 0, 0, 60);
 }
 
